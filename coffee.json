@@ -1,0 +1,5 @@
+{ 
+    "type": "hot",
+    "salt": 10,
+    "description": ["f1","f2","f3"]
+}
